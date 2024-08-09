@@ -3,8 +3,8 @@
 ## Prerequisites
 
 1. *Clone the Frontend Repositories*
-   - Clone the repositories to your local machine using `git clone https://github.com/Ajay-Koli-5057/User-Registration-Full-Stack.git`.
-   - GITHUB URL :- `https://github.com/Ajay-Koli-5057/User-Registration-Full-Stack.git`.
+   - Clone the repositories to your local machine using `git clone https://github.com/Ajay-Koli-5057/Wedding-Planning-Frontend.git`.
+   - GITHUB URL :- `https://github.com/Ajay-Koli-5057/Wedding-Planning-Frontend.git`.
 
 2. *Ensure XAMPP is Installed*
    - Make sure you have XAMPP installed on your system for the database setup.
